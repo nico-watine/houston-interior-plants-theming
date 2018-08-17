@@ -1,0 +1,13 @@
+
+{{#if cart.items.length}}
+  <div class="cart-content">
+    {{#each cart.items}}
+      {{> components/cart/cart-item this}}
+    {{/each}}
+  </div>
+{{else}}
+  {{lang 'cart.empty'}}
+{{/if}}
+
+{{{snippet 'cart'}}}
+

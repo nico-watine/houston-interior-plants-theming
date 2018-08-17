@@ -1,0 +1,1 @@
+{"components/collection-banner":"\n<section class=\"collection-banner\">\n  <figure class=\"collection-banner-item\" style=\"background-image:url('{{getImage this '1500x360'}}')\">\n    <span class=\"sr-only\">\n      <img src=\"{{getImage this '1500x360'}}\" alt=\"{{this.alt}}\">\n    </span>\n  </figure>\n</section>\n"}

@@ -1,0 +1,37 @@
+<figure class="compare-item-thumbnail">
+  <a href="{{{url}}}" title="{{name}}">
+    <img src="{{getImage image '300x300' (cdn default_image)}}" alt="{{image.alt}}">
+  </a>
+</figure>
+
+{{#if brand.name}}
+  <span class="compare-item-brand">{{brand.name}}</span>
+{{/if}}
+
+<h3 class="compare-item-title">
+  <a href="{{{url}}}">{{name}}</a>
+</h3>
+
+<div class="compare-item-price">
+  {{> core/products/price save_block=false}}
+</div>
+
+<div class="compare-item-cart-actions">
+  {{#if has_options}}
+    <a href="{{url}}" class="button button-primary">{{lang 'product.choose_options'}}</a>
+  {{else}}
+    {{#if add_to_cart_url}}
+      <a href="{{add_to_cart_url}}" class="button button-primary">
+        {{#if pre_order}}
+          {{lang 'product.pre_order'}}
+        {{else}}
+          {{lang 'product.add_to_cart'}}
+        {{/if}}
+      </a>
+    {{else}}
+      {{#if out_of_stock_message}}
+        <a href="{{url}}" class="button button-primary">{{out_of_stock_message}}</a>
+      {{/if}}
+    {{/if}}
+  {{/if}}
+</div>

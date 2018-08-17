@@ -1,0 +1,1 @@
+{"components/products/gallery/product-image-switcher":"<div class=\"single-product-image-switcher-image\">\n  <img src=\"{{getImage product.main_image '600x1200'}}\" alt=\"{{product.main_image.alt}}\" data-product-main-image/>\n</div>\n"}

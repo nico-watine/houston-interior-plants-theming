@@ -1,0 +1,51 @@
+<article class="blog-item layout-grid-item">
+
+  {{#if thumbnail}}
+    <div class="blog-item-normal">
+      <img
+        class="blog-item-image"
+        src="{{getImage thumbnail '600x600'}}"
+        alt="{{thumbnail.alt}}"
+      >
+
+      <time class="blog-item-posted-date">
+        {{date_published}}
+      </time>
+
+      <h4 class="blog-item-title">
+        <a href="{{url}}">
+          {{title}}
+        </a>
+      </h4>
+
+      <div class="blog-item-excerpt">
+      {{#if summary}}
+        {{{summary}}}{{#if summary.length ">=" 150}}&hellip;{{/if}}
+      {{else}}
+        {{{body}}}
+      {{/if}}
+      </div>
+
+      <a class="blog-item-read-more" href="{{url}}">
+        {{lang 'blog.read_more'}}
+      </a>
+
+    </div>
+  {{else}}
+    <div class="blog-item-square">
+      <h4 class="blog-item-title">
+        <a href="{{url}}">
+          {{title}}
+        </a>
+      </h4>
+
+      <a class="blog-item-publication-info" href="{{url}}">
+        <span class="blog-item-posted-date">{{date_published}}</span>
+        {{#if author}}
+          <span class="blog-item-author"> - @{{author}}</span>
+        {{/if}}
+      </a>
+    </div>
+  {{/if}}
+
+</article>

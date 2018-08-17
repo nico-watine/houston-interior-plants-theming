@@ -55,6 +55,5135 @@
 		"oAP": "\/fortune\/_ignores\/Fortune-Customized.zip",
 		"oF": 0
 		},
+	"\/fortune\/Fortune-Customized\/assets\/fonts\/fortune-icons.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/fonts\/fortune-icons.eot",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/fonts\/fortune-icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/fonts\/fortune-icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/fonts\/fortune-icons.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/fonts\/fortune-icons.ttf",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/fonts\/fortune-icons.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/fonts\/fortune-icons.woff",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/images\/default-skin.png": {
+		"ft": 32768,
+		"iS": 548,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/images\/default-skin.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/fortune\/Fortune-Customized\/assets\/images\/default-skin.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/images\/default-skin.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/images\/no-image.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/images\/no-image.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/images\/preloader.gif": {
+		"ft": 4194304,
+		"iS": 867,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/images\/preloader.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/images\/spinner-large.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/images\/spinner-large.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/images\/spinner.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/images\/spinner.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/app.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/app-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/bundle.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/bundle-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/PageManager.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/PageManager-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Account.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Account-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/AmpProduct.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/AmpProduct-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Auth.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Auth-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Blog.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Blog-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/BlogPost.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/BlogPost-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Brand.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Brand-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Brands.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Brands-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Cart.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Cart-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/cart\/coupon-codes.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/cart\/coupon-codes-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/cart\/gift-certificate.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/cart\/gift-certificate-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/cart\/gift-wrap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/cart\/gift-wrap-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/cart\/refresh-content.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/cart\/refresh-content-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/cart\/shipping-calculator.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/cart\/shipping-calculator-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Category.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Category-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Compare.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Compare-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/faceted-search.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/faceted-search-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/home-carousel.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/home-carousel-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/masonry-grid.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/masonry-grid-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/navigation.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/navigation-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/quick-cart.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/quick-cart-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/quick-shop-manager.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/quick-shop-manager-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/remoteProductAdd.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/remoteProductAdd-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/search-modal.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/search-modal-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/sharing-buttons.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/sharing-buttons-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/sticky-header.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/components\/sticky-header-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/ContactUs.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/ContactUs-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/Account.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/Account-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/alertDismissable.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/alertDismissable-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/amp\/AmpAlert.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/amp\/AmpAlert-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/amp\/AmpProductUtils.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/amp\/AmpProductUtils-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/amp\/AmpQuantityWidget.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/amp\/AmpQuantityWidget-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/Auth.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/Auth-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/downloadGallery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/downloadGallery-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/formSelectedValue.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/formSelectedValue-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/GiftCertificate.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/GiftCertificate-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/selectOption.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/selectOption-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/updateState.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/core\/updateState-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Errors.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Errors-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/GiftCertificate.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/GiftCertificate-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Global.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Global-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/Alert.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/Alert-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/currency-selector.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/currency-selector-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/GlobalVariables.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/GlobalVariables-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/overlay-utils.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/overlay-utils-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/product-compare.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/product-compare-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/select-wrapper.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/select-wrapper-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/state-country.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/state-country-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/state-manager.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/state-manager-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/theme-init.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/theme-init-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/theme-utilities.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/global\/theme-utilities-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Home.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Home-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/OrderComplete.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/OrderComplete-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Page.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Page-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Product.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Product-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/product\/product-reviews.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/product\/product-reviews-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/product\/product-slideshow.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/product\/product-slideshow-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/product\/product-utils.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/product\/product-utils-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/product\/productViewTemplates.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/product\/productViewTemplates-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/product\/progressButton.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/product\/progressButton-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Search.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Search-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Sitemap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Sitemap-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/Subscribe.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/Subscribe-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/utils\/error-alert.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/utils\/error-alert-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/utils\/fitVideos.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/utils\/fitVideos-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/utils\/FormValidator.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/utils\/FormValidator-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/utils\/inViewPort.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/utils\/inViewPort-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/js\/theme\/utils\/scrollTarget.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/js\/theme\/utils\/scrollTarget-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/assets\/scss\/checkout.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/css\/checkout.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/fortune\/Fortune-Customized\/assets\/scss\/invoice.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/css\/invoice.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/fortune\/Fortune-Customized\/assets\/scss\/optimized-checkout.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/css\/optimized-checkout.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/fortune\/Fortune-Customized\/assets\/scss\/theme.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/assets\/css\/theme.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/fortune\/Fortune-Customized\/CHANGELOG.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/CHANGELOG.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/fortune\/Fortune-Customized\/config.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/config-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/lang\/en.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/lang\/en-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/meta\/fortune-bright-desktop.png": {
+		"ft": 32768,
+		"iS": 3176095,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/meta\/fortune-bright-desktop.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/fortune\/Fortune-Customized\/meta\/fortune-bright-mobile.png": {
+		"ft": 32768,
+		"iS": 220275,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/meta\/fortune-bright-mobile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/fortune\/Fortune-Customized\/meta\/fortune-composed.png": {
+		"ft": 32768,
+		"iS": 526115,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/meta\/fortune-composed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/fortune\/Fortune-Customized\/meta\/fortune-contrast-desktop.png": {
+		"ft": 32768,
+		"iS": 4176456,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/meta\/fortune-contrast-desktop.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/fortune\/Fortune-Customized\/meta\/fortune-contrast-mobile.png": {
+		"ft": 32768,
+		"iS": 225835,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/meta\/fortune-contrast-mobile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/fortune\/Fortune-Customized\/meta\/fortune-highlight-desktop.png": {
+		"ft": 32768,
+		"iS": 3638502,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/meta\/fortune-highlight-desktop.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/fortune\/Fortune-Customized\/meta\/fortune-highlight-mobile.png": {
+		"ft": 32768,
+		"iS": 275039,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/meta\/fortune-highlight-mobile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/fortune\/Fortune-Customized\/meta\/fortune-minimal-desktop.png": {
+		"ft": 32768,
+		"iS": 2763969,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/meta\/fortune-minimal-desktop.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/fortune\/Fortune-Customized\/meta\/fortune-minimal-mobile.png": {
+		"ft": 32768,
+		"iS": 216245,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/meta\/fortune-minimal-mobile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/fortune\/Fortune-Customized\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/lang.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/lang-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/scss\/checkout.scss.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/scss\/checkout.scss-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/scss\/invoice.scss.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/scss\/invoice.scss-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/scss\/optimized-checkout.scss.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/scss\/optimized-checkout.scss-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/scss\/theme.scss.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/scss\/theme.scss-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/0223f7c5bebd4a3d94390479f4d4774b.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/0223f7c5bebd4a3d94390479f4d4774b-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/035eaf36e889105a6b97bc8abc0e9fca.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/035eaf36e889105a6b97bc8abc0e9fca-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/0503dafb595dfd2ad9f2edc367b5a51d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/0503dafb595dfd2ad9f2edc367b5a51d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/057a0229e944b2fdb07b195f1222b1c3.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/057a0229e944b2fdb07b195f1222b1c3-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/06d12496e98756d4295101af79b91f67.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/06d12496e98756d4295101af79b91f67-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/07b5e620cffd564c3588a0496ccb5c42.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/07b5e620cffd564c3588a0496ccb5c42-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/07ce322712a5213e31d3c9f99aa03f28.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/07ce322712a5213e31d3c9f99aa03f28-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/08e63e6c32b68188cc7a9f07dc28ff59.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/08e63e6c32b68188cc7a9f07dc28ff59-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/0918515911643a5f21e6e25be011ecad.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/0918515911643a5f21e6e25be011ecad-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/094eb49fe8ce0a12ba32e0c0929609e9.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/094eb49fe8ce0a12ba32e0c0929609e9-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/0a6eb3b4aab35fc4c64f0246ba833258.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/0a6eb3b4aab35fc4c64f0246ba833258-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/0ad53cebe2f355742bc000745e57e6b7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/0ad53cebe2f355742bc000745e57e6b7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/0b5a67790b104b67307cf9c58fa4ac00.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/0b5a67790b104b67307cf9c58fa4ac00-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/0c2df49434d023b33934d391cd0d70f7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/0c2df49434d023b33934d391cd0d70f7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/11e362274ac1d069659597009b09835b.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/11e362274ac1d069659597009b09835b-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/11fd2d10618e1c346c66181cef8711b7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/11fd2d10618e1c346c66181cef8711b7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/12432ac14bd41a02281a19ce461c5e2f.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/12432ac14bd41a02281a19ce461c5e2f-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/129c9fbba6cfd1a706cba56e94022fa5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/129c9fbba6cfd1a706cba56e94022fa5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/12e6dc87beda6b304f68dbac2a0b666e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/12e6dc87beda6b304f68dbac2a0b666e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/15b0953aa68916dd0943938ea98e0029.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/15b0953aa68916dd0943938ea98e0029-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/1775aecf65ebb2899b50bc8b66cf0cd5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/1775aecf65ebb2899b50bc8b66cf0cd5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/18d349eae926dfe2c778bd603cab5e46.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/18d349eae926dfe2c778bd603cab5e46-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/1ae59d965a41c40c2d2da3f1763f1abd.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/1ae59d965a41c40c2d2da3f1763f1abd-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/1aea3bd0fc0ae6e98eebd4a263d21ba7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/1aea3bd0fc0ae6e98eebd4a263d21ba7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/1c0ceccd61d681f695e3199a9eb1557e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/1c0ceccd61d681f695e3199a9eb1557e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/1d220e2517d7b5616bc57cacc7b4498a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/1d220e2517d7b5616bc57cacc7b4498a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/1ec32ac7038d30be55e490f2d1553bbe.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/1ec32ac7038d30be55e490f2d1553bbe-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/1fed7edbbc5b857d398ced7b18ee29a9.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/1fed7edbbc5b857d398ced7b18ee29a9-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/20bf13631fa15a31cfbf88d270a9946d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/20bf13631fa15a31cfbf88d270a9946d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/20ce876328a98c92c40de0a80b90bb6b.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/20ce876328a98c92c40de0a80b90bb6b-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/21831474730f184678ef5ad0ea31e519.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/21831474730f184678ef5ad0ea31e519-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/21a5d87779312677390ac882f410f52e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/21a5d87779312677390ac882f410f52e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/21cecd78ea07cedf6cc8ae7c4694481c.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/21cecd78ea07cedf6cc8ae7c4694481c-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/220256378f8d579392e010b68c919557.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/220256378f8d579392e010b68c919557-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/2239408af471a4e0e0b695d506981c44.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/2239408af471a4e0e0b695d506981c44-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/245378c08ba75714e205755165894ed3.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/245378c08ba75714e205755165894ed3-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/24a3884cde2e2c449dd9070969beef02.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/24a3884cde2e2c449dd9070969beef02-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/266e2909f6d3842512357e8f4b3f7144.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/266e2909f6d3842512357e8f4b3f7144-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/2761586fed7c9d26533d37aef42c7560.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/2761586fed7c9d26533d37aef42c7560-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/28ff1b3a3c16a46a744bbf1b32a4e473.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/28ff1b3a3c16a46a744bbf1b32a4e473-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/29379517bced0c216561c9b39c00930f.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/29379517bced0c216561c9b39c00930f-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/2a811faf390a0e9c992b3f48d98ed86a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/2a811faf390a0e9c992b3f48d98ed86a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/2b57484ebcde096d1d260973e9a9af7c.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/2b57484ebcde096d1d260973e9a9af7c-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/2b871cdf7e02b89ebb0fccf77a9e6e75.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/2b871cdf7e02b89ebb0fccf77a9e6e75-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/2beaac3038473cad6a7d0ac688611e47.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/2beaac3038473cad6a7d0ac688611e47-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/2bfb70f9b4ff670112441b5e65269fc5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/2bfb70f9b4ff670112441b5e65269fc5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/2d223deca57dc9e7534eaf58846d191d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/2d223deca57dc9e7534eaf58846d191d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/2e4357248a5c81cfe828c2a2d0fd9622.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/2e4357248a5c81cfe828c2a2d0fd9622-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/2e9c225fcc59c7f26f9da75a4bbb35e9.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/2e9c225fcc59c7f26f9da75a4bbb35e9-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/2f88ef0c56a6d22b7c8b113037938f18.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/2f88ef0c56a6d22b7c8b113037938f18-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/30c70ec91a80531ff60ec3d8b751231e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/30c70ec91a80531ff60ec3d8b751231e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/3187d4fadd720a6d985fea65a7799b80.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/3187d4fadd720a6d985fea65a7799b80-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/31c76f36652836885611f10ae4aeb6fb.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/31c76f36652836885611f10ae4aeb6fb-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/31e4671a71ff533aeba9ebb30658f39a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/31e4671a71ff533aeba9ebb30658f39a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/325e2e7e7a2c8f763c5a97ff668b59a1.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/325e2e7e7a2c8f763c5a97ff668b59a1-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/326b1f9efb928b8355de9f059c599c55.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/326b1f9efb928b8355de9f059c599c55-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/32f88f2deae9351fb59e39d82310c6ba.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/32f88f2deae9351fb59e39d82310c6ba-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/334c31dcb09b4da28a15335445591554.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/334c31dcb09b4da28a15335445591554-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/335d267ddd03bc428e46e8b0c8da7350.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/335d267ddd03bc428e46e8b0c8da7350-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/342d74a7253ad5595432caf3059d1118.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/342d74a7253ad5595432caf3059d1118-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/34846708bd718bd9c2642b71d04ff0d2.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/34846708bd718bd9c2642b71d04ff0d2-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/350ff927d4844ad52b026997bd704464.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/350ff927d4844ad52b026997bd704464-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/357c994eca7092ec080903e08aa464e1.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/357c994eca7092ec080903e08aa464e1-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/3643715467b4109ec87321660f92d7a2.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/3643715467b4109ec87321660f92d7a2-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/36b6f34c2a5cfd088e348b046d740405.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/36b6f34c2a5cfd088e348b046d740405-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/37c622b8591a5c0a1f89b6cee27724e9.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/37c622b8591a5c0a1f89b6cee27724e9-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/38a508225519e08a5e9f500cbb85efb9.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/38a508225519e08a5e9f500cbb85efb9-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/3ac8935293c1e0cdabe585f62ce5521e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/3ac8935293c1e0cdabe585f62ce5521e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/3b6f316271af3cda0458c79d2eed26e7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/3b6f316271af3cda0458c79d2eed26e7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/3c435fd4a6519dd65a65e31c5a8f6d46.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/3c435fd4a6519dd65a65e31c5a8f6d46-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/3cbdc983a190739891207f3add33675d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/3cbdc983a190739891207f3add33675d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/3d29072bf5ba851d89c0499ee5a61045.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/3d29072bf5ba851d89c0499ee5a61045-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/3f75a61bb9b10eb3bdfc58448751d1a8.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/3f75a61bb9b10eb3bdfc58448751d1a8-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/400240f74d3ce2891e67328084b1d6d7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/400240f74d3ce2891e67328084b1d6d7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/418c97239c0221a22acaaa9200ca0bda.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/418c97239c0221a22acaaa9200ca0bda-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/41d9e006fec719b182f7274101ecf0cf.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/41d9e006fec719b182f7274101ecf0cf-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/41e86e9884563a3fd518563d471bc003.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/41e86e9884563a3fd518563d471bc003-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/42122ae46b9842c592f9f99c9d02bcb5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/42122ae46b9842c592f9f99c9d02bcb5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/42d17f450883e4cc8e0efcd6d5dcccff.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/42d17f450883e4cc8e0efcd6d5dcccff-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/44c8a8895a6a1a7222dd7faaae0856b6.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/44c8a8895a6a1a7222dd7faaae0856b6-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/44dd1f01728ce855dacbabae07006bed.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/44dd1f01728ce855dacbabae07006bed-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/44fa3a64d29c27cfe27789b5b669b575.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/44fa3a64d29c27cfe27789b5b669b575-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/451d8805fe7100a8b7432a3294996c6a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/451d8805fe7100a8b7432a3294996c6a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/4540891cc8775ad2ae49885a1993fb73.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/4540891cc8775ad2ae49885a1993fb73-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/457abea31e4674b091005e8a581751f0.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/457abea31e4674b091005e8a581751f0-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/46538bf47b84296e71e5e87a6fd9fa33.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/46538bf47b84296e71e5e87a6fd9fa33-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/4720d556020e46b5c0f598e63071d67b.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/4720d556020e46b5c0f598e63071d67b-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/48f10bab85891fec1949f40e8cb1b18d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/48f10bab85891fec1949f40e8cb1b18d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/495bf9bb63b8679032c8770541450265.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/495bf9bb63b8679032c8770541450265-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/49d8231ebc2e1c982dbabcb12299d5e4.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/49d8231ebc2e1c982dbabcb12299d5e4-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/4a70d96d6a6ce8a03b89b6b9eb2ce7ce.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/4a70d96d6a6ce8a03b89b6b9eb2ce7ce-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/4af6049f93dafe6e22939df05870700f.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/4af6049f93dafe6e22939df05870700f-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/4b1e3d438a078ed9b280622c347464c5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/4b1e3d438a078ed9b280622c347464c5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/4bb92478677ee6c4ce065086066a1247.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/4bb92478677ee6c4ce065086066a1247-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/4d27dbe81bc595784a9953f67239d53f.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/4d27dbe81bc595784a9953f67239d53f-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/4d3b902fa90f54c3908d691f79e416fc.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/4d3b902fa90f54c3908d691f79e416fc-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/4f8cc011fb6034822d8d569aea16849a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/4f8cc011fb6034822d8d569aea16849a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/5347554d285dffcb49cbc8379009260e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/5347554d285dffcb49cbc8379009260e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/5362146f37455c4a7889ca8c19821a39.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/5362146f37455c4a7889ca8c19821a39-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/562f2b13555485088b5702aa5223b8c4.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/562f2b13555485088b5702aa5223b8c4-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/5667aff79e3cd626e0e49d4d6025157a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/5667aff79e3cd626e0e49d4d6025157a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/5743cbad9143085df9d3c4c8ebda16e5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/5743cbad9143085df9d3c4c8ebda16e5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/577fd6d04bc38ccf5ada1e73adaf577e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/577fd6d04bc38ccf5ada1e73adaf577e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/57dc75233a7720b70ca3d5e39614077b.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/57dc75233a7720b70ca3d5e39614077b-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/595e1daea238a168be92214ab19b8adf.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/595e1daea238a168be92214ab19b8adf-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/596ac5c1273f801f4d3b99af28eeaa77.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/596ac5c1273f801f4d3b99af28eeaa77-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/59e23feb0011a22d8f2b14394d408164.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/59e23feb0011a22d8f2b14394d408164-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/5b9e81a8901222734ffb3a73318de8d8.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/5b9e81a8901222734ffb3a73318de8d8-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/5bb16c3013ff62d1319042ad36641150.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/5bb16c3013ff62d1319042ad36641150-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/5c88487a10459036d77e13dbd99ad6d5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/5c88487a10459036d77e13dbd99ad6d5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/5d09798b68a207501e146b130a9fc961.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/5d09798b68a207501e146b130a9fc961-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/5dbd0aa6f726a6e328226ca8eb446760.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/5dbd0aa6f726a6e328226ca8eb446760-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/5f10f9da03bec92b27fb605f1d2c4fa2.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/5f10f9da03bec92b27fb605f1d2c4fa2-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/602168817435e3bc0634dba51af835f3.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/602168817435e3bc0634dba51af835f3-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/61acc0a59a41f870a3ca785b6a8aebf4.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/61acc0a59a41f870a3ca785b6a8aebf4-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/61d36a0fde365f4492804dc3a5815ad4.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/61d36a0fde365f4492804dc3a5815ad4-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/62adc01a981dc6765e10dd65bd00fe69.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/62adc01a981dc6765e10dd65bd00fe69-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/6369c03d752834195cdf1f91559dc1ab.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/6369c03d752834195cdf1f91559dc1ab-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/63bbbfc6eb66726f4a23d6c770f4bc6a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/63bbbfc6eb66726f4a23d6c770f4bc6a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/640e52afb9a9d7c3c5ab6f78764e0231.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/640e52afb9a9d7c3c5ab6f78764e0231-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/690c6f3d23435d996ab23271cf6aac34.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/690c6f3d23435d996ab23271cf6aac34-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/6b7c735debf38257caab6f8365d9994e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/6b7c735debf38257caab6f8365d9994e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/6d860f2e97f920d71df87d58aee940ce.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/6d860f2e97f920d71df87d58aee940ce-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/6eaa5ff1c9ee45d93d12b89a0a6f0dab.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/6eaa5ff1c9ee45d93d12b89a0a6f0dab-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/6f8ab1ade976a1fb7a0c74aa6e5c6116.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/6f8ab1ade976a1fb7a0c74aa6e5c6116-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/6fbd795be00c56f7c81013fcb8e719c7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/6fbd795be00c56f7c81013fcb8e719c7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/70d8e20901b795444fca2b1e09ec6e55.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/70d8e20901b795444fca2b1e09ec6e55-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/70fe4297a6caa9bb5f9726449606549e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/70fe4297a6caa9bb5f9726449606549e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/73d13ddc6a436b87f6a8f8e46bf18c98.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/73d13ddc6a436b87f6a8f8e46bf18c98-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/73d19d3ed4aafa01feaaf72c22483e81.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/73d19d3ed4aafa01feaaf72c22483e81-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/7442b67873e6f7903bafce18b299556e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/7442b67873e6f7903bafce18b299556e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/7568f4ce57d5db2ec832c5248c9f6d3d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/7568f4ce57d5db2ec832c5248c9f6d3d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/75ba6fc4c5894728d75603f7bbf4b874.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/75ba6fc4c5894728d75603f7bbf4b874-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/7707b3ec4df97295833cad1dececbf79.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/7707b3ec4df97295833cad1dececbf79-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/772ec54ccd399abc07150443b50207f9.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/772ec54ccd399abc07150443b50207f9-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/7a62d97003969aee2d0057380150e331.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/7a62d97003969aee2d0057380150e331-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/7acd866301ec0549d9d0420f7bad27b1.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/7acd866301ec0549d9d0420f7bad27b1-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/7b775f82d7c98b5ce613c1c6903510c0.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/7b775f82d7c98b5ce613c1c6903510c0-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/7d20664194dccdfef9965e43e1efd8de.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/7d20664194dccdfef9965e43e1efd8de-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/7fb2cb4fcb60a549907cf54f840326b1.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/7fb2cb4fcb60a549907cf54f840326b1-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/8009832ffe33a444234bcb4a4c8b6e1f.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/8009832ffe33a444234bcb4a4c8b6e1f-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/82e0ec9bc14fbb0c1b95396423045fc7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/82e0ec9bc14fbb0c1b95396423045fc7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/833e1754d20319f03842f884cabcd7fa.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/833e1754d20319f03842f884cabcd7fa-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/833ea814f62f566103abe44c3dd01574.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/833ea814f62f566103abe44c3dd01574-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/8495a016f178956c9a75f1a89de24cc5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/8495a016f178956c9a75f1a89de24cc5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/86140c103a5ad25b97fc3f587979b682.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/86140c103a5ad25b97fc3f587979b682-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/8859baac24bf2199ef94608edf1a5cec.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/8859baac24bf2199ef94608edf1a5cec-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/8942b2264097cb4caa598eb0ab660dea.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/8942b2264097cb4caa598eb0ab660dea-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/899f9d99177a73ea156d8ce33bfcbb8c.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/899f9d99177a73ea156d8ce33bfcbb8c-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/89e094f3eb19d04a51f1d0f709753d78.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/89e094f3eb19d04a51f1d0f709753d78-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/8c8221331096855d4436d1e7906633b0.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/8c8221331096855d4436d1e7906633b0-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/8d7067aab2c2303e6e69e259b5dfa6e2.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/8d7067aab2c2303e6e69e259b5dfa6e2-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/8d7bdfeb6c30594284bb32e812433f09.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/8d7bdfeb6c30594284bb32e812433f09-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/8eccc4afe50e1fdc6159e3ff3e6c0af7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/8eccc4afe50e1fdc6159e3ff3e6c0af7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/91bca63df2709c113371bae6a53094ed.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/91bca63df2709c113371bae6a53094ed-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/92690a423d90c428c3b46ad17d0f192f.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/92690a423d90c428c3b46ad17d0f192f-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/93e9695f4844b0350d8431c031d3eca0.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/93e9695f4844b0350d8431c031d3eca0-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/943e6dddfa29815cc3ad746d7c0a4fa6.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/943e6dddfa29815cc3ad746d7c0a4fa6-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/946ec43eb151cb776104725f914d293a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/946ec43eb151cb776104725f914d293a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/968080d6f7e32c4c013bc1e508ab4051.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/968080d6f7e32c4c013bc1e508ab4051-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/996767e67417f9265b9b78e2a6881434.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/996767e67417f9265b9b78e2a6881434-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/996ad549bcc63709bf6f27ffb6de95af.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/996ad549bcc63709bf6f27ffb6de95af-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/9a3d16f11c782b4ccd272fe0d069daa6.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/9a3d16f11c782b4ccd272fe0d069daa6-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/9a9410c227a600beab5f56cf280ea540.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/9a9410c227a600beab5f56cf280ea540-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/9aee31ec3ed6fdd4528e94d9992825b9.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/9aee31ec3ed6fdd4528e94d9992825b9-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/9af3cf67349aa713c636a5599386c2d5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/9af3cf67349aa713c636a5599386c2d5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/9c44e39b4b0cd3767045ee01ab164d8e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/9c44e39b4b0cd3767045ee01ab164d8e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/9d4bb8bf7b76d1fe8606caeec6707944.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/9d4bb8bf7b76d1fe8606caeec6707944-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/9e26fc849a51284c7d0b7507f8c795da.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/9e26fc849a51284c7d0b7507f8c795da-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/9f53dd6530cde6e7fa85247669df0865.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/9f53dd6530cde6e7fa85247669df0865-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/9f77eedca53f18ec34583aeb16592cef.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/9f77eedca53f18ec34583aeb16592cef-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/9ffde0229469d1a93ab4b6df83185063.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/9ffde0229469d1a93ab4b6df83185063-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a08675e57f6d13aa09cb1ca91b785109.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a08675e57f6d13aa09cb1ca91b785109-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a0bc3a33072652f5b7b5cfb453d79c05.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a0bc3a33072652f5b7b5cfb453d79c05-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a1784d0b2b000b19b45654e1874d7e4e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a1784d0b2b000b19b45654e1874d7e4e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a1b08c9d00305b36e459b6448c920287.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a1b08c9d00305b36e459b6448c920287-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a22ffa09f12b4575f7d66ea1e81a1d80.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a22ffa09f12b4575f7d66ea1e81a1d80-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a4224421542d6fc331f8142f0942e437.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a4224421542d6fc331f8142f0942e437-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a46f7b5e0251f9dba9094e6719a3e5c9.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a46f7b5e0251f9dba9094e6719a3e5c9-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a53ce46704a3a82eb6b7b950472d23ca.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a53ce46704a3a82eb6b7b950472d23ca-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a560e81121aff8edcc9dd2c3d29e6e94.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a560e81121aff8edcc9dd2c3d29e6e94-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a5f77903b7d1c73d4feaab2ac05d3f80.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a5f77903b7d1c73d4feaab2ac05d3f80-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a80146bb391421b89c46028fea096bc4.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a80146bb391421b89c46028fea096bc4-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a8098cf42516d3c9291d47dad6d6a659.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a8098cf42516d3c9291d47dad6d6a659-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a859ab7fa41cc8b7ed6a65e16e8f0c67.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a859ab7fa41cc8b7ed6a65e16e8f0c67-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a88b59ad0173c140411b6444513700fb.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a88b59ad0173c140411b6444513700fb-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/a9316cc49c7e378624527b1a720a9b7d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/a9316cc49c7e378624527b1a720a9b7d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/aa50bd4b2e1138313902a4a4aa96c3d6.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/aa50bd4b2e1138313902a4a4aa96c3d6-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/ab118c301f6c35affcc22f6c8c3c8467.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/ab118c301f6c35affcc22f6c8c3c8467-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/acb4ed297e60a454540324447d9c09c2.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/acb4ed297e60a454540324447d9c09c2-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/ad404273fd8d92e0417a57501fb7a2de.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/ad404273fd8d92e0417a57501fb7a2de-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/ad70fcad16bccff6b80bb320368cc895.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/ad70fcad16bccff6b80bb320368cc895-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/b0758d0fa0fed824a59626e8d4671e6e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/b0758d0fa0fed824a59626e8d4671e6e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/b110472f97159d125f4e4a55dad8feb6.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/b110472f97159d125f4e4a55dad8feb6-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/b17a75725ae9329d2fdbfd5c6c5374d7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/b17a75725ae9329d2fdbfd5c6c5374d7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/b306ef8f260a0832f1699dd8bbf93f82.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/b306ef8f260a0832f1699dd8bbf93f82-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/b3f11aa54ca9e144ba3ac900c0f62b18.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/b3f11aa54ca9e144ba3ac900c0f62b18-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/b49931ee4cdbb814df049480c9aa51f4.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/b49931ee4cdbb814df049480c9aa51f4-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/b4a2c1c4bc33aafbc9d791614f17af3f.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/b4a2c1c4bc33aafbc9d791614f17af3f-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/b53d259886a3f6161d5c1fe26de50dad.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/b53d259886a3f6161d5c1fe26de50dad-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/b71751c207e4b249a16e6aa24491379e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/b71751c207e4b249a16e6aa24491379e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/b800ed2a4c2f64118c2da3f0b5c4cd6b.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/b800ed2a4c2f64118c2da3f0b5c4cd6b-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/bae551cca34f4b80f435e81b8c5431f5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/bae551cca34f4b80f435e81b8c5431f5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/bf1825dca267ff43241de2c33c5725bd.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/bf1825dca267ff43241de2c33c5725bd-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c0c8f12e56f9a221c1fc89ce8f414a50.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c0c8f12e56f9a221c1fc89ce8f414a50-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c1cbda1a02c8be80f5d6462a62fb5006.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c1cbda1a02c8be80f5d6462a62fb5006-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c262e74db786bbb4df0ff477b807f68f.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c262e74db786bbb4df0ff477b807f68f-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c2d9fd26b9efca87dff0fb30d9744304.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c2d9fd26b9efca87dff0fb30d9744304-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c3ecb53b07bfa8f870040562ac71ab3a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c3ecb53b07bfa8f870040562ac71ab3a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c461518b7f34b16c38c84ca8ec162feb.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c461518b7f34b16c38c84ca8ec162feb-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c4c53719fd9758299d27a9274c3cf994.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c4c53719fd9758299d27a9274c3cf994-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c4ca3f89d4c6601e2fd221ce1a529153.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c4ca3f89d4c6601e2fd221ce1a529153-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c4e04ccb8bc6cef2811adda498ca64c1.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c4e04ccb8bc6cef2811adda498ca64c1-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c72edf8717ee0958f5eea15d85629b42.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c72edf8717ee0958f5eea15d85629b42-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c7f5afed642689679e084e3fbade6202.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c7f5afed642689679e084e3fbade6202-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c7f67b5b1c1c179608ce18a4151fb012.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c7f67b5b1c1c179608ce18a4151fb012-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c990d62029311f6b4c8f9408f11cbe70.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c990d62029311f6b4c8f9408f11cbe70-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/c9a323fe6ac886c62d9ccdeddbd5b213.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/c9a323fe6ac886c62d9ccdeddbd5b213-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/ca977b53262b1198254a3b0133220f50.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/ca977b53262b1198254a3b0133220f50-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/cb05c2cabb3e028e284421477651f453.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/cb05c2cabb3e028e284421477651f453-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/cc2db3c92d5f999f4c3face185215368.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/cc2db3c92d5f999f4c3face185215368-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/cded2af20f979d368cbbc9465aa16c48.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/cded2af20f979d368cbbc9465aa16c48-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/ce434b8dfde487592f65ac5dd4a8e0fe.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/ce434b8dfde487592f65ac5dd4a8e0fe-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/d05e0e9184bb18a0a7ca140437f9b588.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/d05e0e9184bb18a0a7ca140437f9b588-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/d06e2f4b9f1348313f4444d2bb8b9b10.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/d06e2f4b9f1348313f4444d2bb8b9b10-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/d0d42f0ef79e8facf2440a43dc018e41.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/d0d42f0ef79e8facf2440a43dc018e41-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/d1db311a813c9bc3342153b21af2a36c.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/d1db311a813c9bc3342153b21af2a36c-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/d206ad53f882c0db23ee4af4900bd191.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/d206ad53f882c0db23ee4af4900bd191-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/d2f67b99e1775d4c7e5981d53d4df015.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/d2f67b99e1775d4c7e5981d53d4df015-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/d3bf5f13159302bbd4c3eee3bc34d84d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/d3bf5f13159302bbd4c3eee3bc34d84d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/d480e5c6760d5dfee508284698f0fb9d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/d480e5c6760d5dfee508284698f0fb9d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/d7ca2f72fbc22fdb6dfbd1736f788d9b.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/d7ca2f72fbc22fdb6dfbd1736f788d9b-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/d8315677c820bcd0b0e7030a1587aa19.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/d8315677c820bcd0b0e7030a1587aa19-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/d92c2fbbf1126c2a3ff2f1ca98a05ee4.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/d92c2fbbf1126c2a3ff2f1ca98a05ee4-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/daa49110c5272f9b389be2c822f5ec8a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/daa49110c5272f9b389be2c822f5ec8a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/db1e5ec03f78d01a40f0c2ee39089a46.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/db1e5ec03f78d01a40f0c2ee39089a46-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e036a0df0d0c048e87e61aebe6ac4ecf.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e036a0df0d0c048e87e61aebe6ac4ecf-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e31f948054b800ccd9a5b01ef11b34d9.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e31f948054b800ccd9a5b01ef11b34d9-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e38057d73911eb38883f1df856c18c6f.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e38057d73911eb38883f1df856c18c6f-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e47d0e4bca3c17c9c81c320367005eec.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e47d0e4bca3c17c9c81c320367005eec-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e5817e1600523a6a7694ca595e98420d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e5817e1600523a6a7694ca595e98420d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e7e9003261f843c0b1a1a2a6465cd48f.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e7e9003261f843c0b1a1a2a6465cd48f-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e84b37976b345305f9c18a953112b808.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e84b37976b345305f9c18a953112b808-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e8bf86bf42a6dda1e7e3ffddeeeebbde.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e8bf86bf42a6dda1e7e3ffddeeeebbde-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e900933744b70e2cdeb5c21aaf7867e5.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e900933744b70e2cdeb5c21aaf7867e5-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e94604113b3f9ce935a42943f92533b2.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e94604113b3f9ce935a42943f92533b2-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e9c15a93d803f5ebdcad452728f7ed3d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e9c15a93d803f5ebdcad452728f7ed3d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/e9f52d7853ad8a7935ad66f7b9503226.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/e9f52d7853ad8a7935ad66f7b9503226-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/ec0290bde4a1a1182b8449c119fc3041.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/ec0290bde4a1a1182b8449c119fc3041-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f01d6794a18a5f257a3e7be11c48bf7c.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f01d6794a18a5f257a3e7be11c48bf7c-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f0e9343017c727cb41660790878aa617.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f0e9343017c727cb41660790878aa617-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f111c35dc65b96fe4a591db29b6effa0.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f111c35dc65b96fe4a591db29b6effa0-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f1ec78300a1a71a5e6e0613d0c3ebb4d.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f1ec78300a1a71a5e6e0613d0c3ebb4d-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f200d5b3df58fcb60d546c4ecf804d8a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f200d5b3df58fcb60d546c4ecf804d8a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f221225f911e3c209b04c9ab32bd90dc.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f221225f911e3c209b04c9ab32bd90dc-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f2bafdb260d1a4ebf0db7ad5e281b66c.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f2bafdb260d1a4ebf0db7ad5e281b66c-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f3a90d71b639a36474db1ed26bb2b129.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f3a90d71b639a36474db1ed26bb2b129-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f52b6aedab46da8890872fdfbf8bb1b7.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f52b6aedab46da8890872fdfbf8bb1b7-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f5795b3392c7001ae448f90271cf259a.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f5795b3392c7001ae448f90271cf259a-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f6d54cd91661f65680716854c77e2f8e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f6d54cd91661f65680716854c77e2f8e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f6ed32f9a58a38a355c8a853f502c1e1.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f6ed32f9a58a38a355c8a853f502c1e1-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f740e6e276ee96bbc20cad4adcf5d4ab.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f740e6e276ee96bbc20cad4adcf5d4ab-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f7eae0d75b3344184f223b217f13b2bf.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f7eae0d75b3344184f223b217f13b2bf-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f88f04bfb691c3cb5ceedb1c5678524e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f88f04bfb691c3cb5ceedb1c5678524e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/f968a49dd6f67839d092f20a5582c9bf.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/f968a49dd6f67839d092f20a5582c9bf-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/fba5171c8bb783876135c251e7c27384.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/fba5171c8bb783876135c251e7c27384-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/fcbb49b2e8d2cb56247ee5e560d5a97c.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/fcbb49b2e8d2cb56247ee5e560d5a97c-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/fcf0198b07eb66700f6cad37ce3a592e.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/fcf0198b07eb66700f6cad37ce3a592e-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/fd0001708057687081989291d651f6a9.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/fd0001708057687081989291d651f6a9-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/fd06b914593ce7c4be8a6b9c10318594.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/fd06b914593ce7c4be8a6b9c10318594-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/fd50b41ec18929b008d49197a0375079.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/fd50b41ec18929b008d49197a0375079-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/parsed\/templates\/ff3f23bb1894f169f0614bf85f0c690b.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/parsed\/templates\/ff3f23bb1894f169f0614bf85f0c690b-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/schema.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/schema-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/fortune\/Fortune-Customized\/stencil.conf.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/fortune\/Fortune-Customized\/stencil.conf-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/alerts\/alert-error.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/alerts\/alert-error.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/alerts\/alert-info.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/alerts\/alert-info.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/alerts\/alert-success.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/alerts\/alert-success.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/amp\/social-media-links.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/amp\/social-media-links.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/amp\/styles\/footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/amp\/styles\/footer.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/amp\/styles\/header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/amp\/styles\/header.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/amp\/styles\/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/amp\/styles\/product.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/blog-banner.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/blog-banner.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/blog\/blog-item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/blog\/blog-item.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/blog\/blog-post.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/blog\/blog-post.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/blog\/blog-sidebar.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/blog\/blog-sidebar.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/brand\/product-listing.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/brand\/product-listing.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/brand\/show-more.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/brand\/show-more.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/brand\/sidebar.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/brand\/sidebar.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/carousel.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/carousel.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-content.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-content.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-coupon-codes.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-coupon-codes.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-coupon-input.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-coupon-input.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-item.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-shipping-calculator.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-shipping-calculator.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-shipping-quote.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-shipping-quote.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-shipping-quotes.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-shipping-quotes.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-totals.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/cart-totals.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/gift-certificate\/certificate-input.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/gift-certificate\/certificate-input.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/gift-certificate\/certificate.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/gift-certificate\/certificate.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/gift-wrap\/gift-wrap-form.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/gift-wrap\/gift-wrap-form.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/gift-wrap\/gift-wrap-item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/gift-wrap\/gift-wrap-item.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/gift-wrap\/gift-wrap-totals.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/gift-wrap\/gift-wrap-totals.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/quick-cart-content.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/quick-cart-content.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/quick-cart-item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/quick-cart-item.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/quick-cart-totals.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/quick-cart-totals.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/quick-cart.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/quick-cart.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/cart\/shipping-estimator.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/cart\/shipping-estimator.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/category\/product-listing.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/category\/product-listing.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/category\/show-more.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/category\/show-more.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/category\/sidebar.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/category\/sidebar.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/collection-banner.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/collection-banner.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/banners.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/banners.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/body-class.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/body-class.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/breadcrumbs-partial.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/breadcrumbs-partial.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/breadcrumbs.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/breadcrumbs.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/facebook-like.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/facebook-like.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/global-injects.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/global-injects.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/mailing-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/mailing-list.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/modal-close.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/modal-close.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/newsletter-subscribe.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/newsletter-subscribe.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/page-header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/page-header.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/pagination.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/pagination.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/quantity.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/quantity.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/rating.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/rating.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/share-buttons.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/share-buttons.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/common\/sort.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/common\/sort.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/compare\/compare-item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/compare\/compare-item.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/currency-selector.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/currency-selector.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets-base.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets-base.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets-toggle.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets-toggle.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets\/hierarchy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets\/hierarchy.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets\/multi.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets\/multi.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets\/range.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets\/range.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets\/rating.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/facets\/rating.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/index.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/show-more-facets.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/show-more-facets.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/sort-filter.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/faceted-search\/sort-filter.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/footer-modals.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/footer-modals.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/footer.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/gift-certificate\/navigation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/gift-certificate\/navigation.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/gift-certificate\/sidebar.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/gift-certificate\/sidebar.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/header-menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/header-menu.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/header.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/navigation-footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/navigation-footer.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/navigation-header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/navigation-header.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/page\/contact-us-form.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/page\/contact-us-form.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/page\/page-sidebar.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/page\/page-sidebar.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/page\/rss.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/page\/rss.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/page\/sidebar-link.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/page\/sidebar-link.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/additional-info.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/additional-info.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/gallery\/product-image-switcher.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/gallery\/product-image-switcher.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/gallery\/product-slideshow.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/gallery\/product-slideshow.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/gallery\/product-thumbnails.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/gallery\/product-thumbnails.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/homepage-grid.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/homepage-grid.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/product-item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/product-item.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/quick-shop.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/quick-shop.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/ratings.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/ratings.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/related.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/related.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/review-modal.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/review-modal.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/reviews.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/reviews.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/single-details.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/single-details.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/single-image.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/single-image.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/products\/single-review.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/products\/single-review.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/search\/product-listing.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/search\/product-listing.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/search\/results.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/search\/results.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/search\/show-more.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/search\/show-more.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/search\/sidebar.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/search\/sidebar.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/components\/sitemap\/links.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/components\/sitemap\/links.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/account-product-item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/account-product-item.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/layout-empty.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/layout-empty.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/layout-heading.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/layout-heading.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/layout.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/layout.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/messages-form.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/messages-form.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/messages-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/messages-list.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/navigation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/navigation.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/orders-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/orders-list.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/receipt-items.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/receipt-items.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/receipt-shipments.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/receipt-shipments.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/receipt-summary.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/receipt-summary.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/returns-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/returns-list.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/wishlist-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/_private\/wishlist-list.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/add-address.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/add-address.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/add-return.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/add-return.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/add-wishlist.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/add-wishlist.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/addresses.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/addresses.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/download-item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/download-item.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/edit.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/edit.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/inbox.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/inbox.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/orders\/all.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/orders\/all.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/orders\/completed.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/orders\/completed.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/orders\/details.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/orders\/details.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/orders\/invoice.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/orders\/invoice.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/recent-items.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/recent-items.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/return-saved.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/return-saved.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/returns.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/returns.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/wishlist-details.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/wishlist-details.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/wishlist-shared.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/wishlist-shared.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/account\/wishlists.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/account\/wishlists.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/alerts\/alert-error.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/alerts\/alert-error.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/alerts\/alert-info.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/alerts\/alert-info.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/alerts\/alert-success.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/alerts\/alert-success.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/category\/product-item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/category\/product-item.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/category\/product-listing.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/category\/product-listing.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/category\/styles.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/category\/styles.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/category\/subcategories.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/category\/subcategories.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/alerts.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/alerts.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/footer.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/header.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/logo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/logo.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/navigation-loop.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/navigation-loop.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/navigation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/navigation.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/pagination.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/pagination.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/price-class.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/price-class.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/price.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/price.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/quantity.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/quantity.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/ratings.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/ratings.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/share.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/common\/share.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/base.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/base.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/category.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/category.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/footer.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/header.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/product-options.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/product-options.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/css\/product.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/layout\/amp-iframe.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/layout\/amp-iframe.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/layout\/amp.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/layout\/amp.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/pages\/category.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/pages\/category.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/pages\/product-options.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/pages\/product-options.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/pages\/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/pages\/product.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-accordion.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-accordion.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-details.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-details.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-form.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-form.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-images.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-images.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-options.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-options.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-view.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/product-view.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/reviews.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/reviews.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/styles.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/styles.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/videos.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/amp\/products\/videos.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/auth\/account-created.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/auth\/account-created.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/auth\/create-account.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/auth\/create-account.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/auth\/forgot-password.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/auth\/forgot-password.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/auth\/login.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/auth\/login.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/auth\/new-password.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/auth\/new-password.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/checkout\/checkout.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/checkout\/checkout.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/checkout\/order-confirmation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/checkout\/order-confirmation.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/captcha.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/captcha.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/checkbox.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/checkbox.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/date.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/date.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/email.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/email.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/multiline.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/multiline.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/number.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/number.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/password.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/password.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/radio.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/radio.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/rating.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/rating.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/select.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/select.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/selectortext.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/selectortext.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/text.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/common\/text.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/customizations\/checkbox.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/customizations\/checkbox.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/customizations\/file.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/customizations\/file.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/customizations\/select.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/customizations\/select.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/customizations\/text.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/customizations\/text.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/customizations\/textarea.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/customizations\/textarea.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/form-contact-us.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/form-contact-us.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/date.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/date.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/input-checkbox.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/input-checkbox.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/input-file.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/input-file.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/input-numbers.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/input-numbers.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/input-text.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/input-text.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/product-list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/product-list.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/set-radio.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/set-radio.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/set-rectangle.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/set-rectangle.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/set-select.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/set-select.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/swatch.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/swatch.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/textarea.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/forms\/options\/textarea.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/geotrust-ssl-seal.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/geotrust-ssl-seal.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/gift-certificate\/balance.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/gift-certificate\/balance.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/gift-certificate\/navigation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/gift-certificate\/navigation.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/gift-certificate\/purchase.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/gift-certificate\/purchase.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/gift-certificate\/redeem.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/gift-certificate\/redeem.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/pagination.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/pagination.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/products\/event.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/products\/event.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/products\/price.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/products\/price.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/products\/rating.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/products\/rating.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/structured-data\/blog-post.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/structured-data\/blog-post.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/structured-data\/breadcrumbs.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/structured-data\/breadcrumbs.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/structured-data\/product-reviews.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/structured-data\/product-reviews.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/structured-data\/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/structured-data\/product.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/structured-data\/website.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/structured-data\/website.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/unavailable\/hibernation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/unavailable\/hibernation.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/unavailable\/layout.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/unavailable\/layout.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/core\/unavailable\/maintenance.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/core\/unavailable\/maintenance.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/layout\/amp-iframe.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/layout\/amp-iframe.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/layout\/amp.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/layout\/amp.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/layout\/base.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/layout\/base.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/add-address.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/add-address.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/add-return.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/add-return.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/add-wishlist.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/add-wishlist.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/addresses.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/addresses.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/download-item.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/download-item.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/edit.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/edit.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/inbox.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/inbox.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/orders\/all.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/orders\/all.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/orders\/completed.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/orders\/completed.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/orders\/details.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/orders\/details.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/orders\/invoice.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/orders\/invoice.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/recent-items.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/recent-items.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/return-saved.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/return-saved.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/returns.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/returns.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/wishlist-details.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/wishlist-details.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/wishlist-shared.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/wishlist-shared.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/account\/wishlists.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/account\/wishlists.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/amp\/category.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/amp\/category.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/amp\/product-options.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/amp\/product-options.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/amp\/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/amp\/product.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/auth\/account-created.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/auth\/account-created.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/auth\/create-account.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/auth\/create-account.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/auth\/forgot-password.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/auth\/forgot-password.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/auth\/login.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/auth\/login.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/auth\/new-password.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/auth\/new-password.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/blog-post.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/blog-post.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/blog.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/blog.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/brand.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/brand.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/brands.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/brands.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/cart.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/cart.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/category.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/category.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/checkout.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/checkout.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/compare.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/compare.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/contact-us.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/contact-us.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/errors\/403.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/errors\/403.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/errors\/404.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/errors\/404.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/errors\/500.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/errors\/500.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/errors\/generic.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/errors\/generic.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/gift-certificate\/balance.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/gift-certificate\/balance.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/gift-certificate\/purchase.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/gift-certificate\/purchase.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/gift-certificate\/redeem.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/gift-certificate\/redeem.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/home.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/home.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/order-complete.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/order-complete.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/order-confirmation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/order-confirmation.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/page.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/page.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/product.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/rss.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/rss.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/search.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/search.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/sitemap.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/sitemap.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/subscribed.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/subscribed.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/unavailable\/hibernation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/unavailable\/hibernation.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/unavailable\/maintenance.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/unavailable\/maintenance.html",
+		"oF": 0
+		},
+	"\/fortune\/Fortune-Customized\/templates\/pages\/unsubscribe.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/unsubscribe.html",
+		"oF": 0
+		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,

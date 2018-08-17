@@ -1,0 +1,618 @@
+/*! Theme: Fortune v1.16.8 */
+// This style sheet only affects the checkout page, and as its not coded by
+// PXU it does not follow our normal markup rules
+/* scss-combine:../../node_modules/bc-baseline/lib/mixins */
+@mixin media($max: false, $min: false) {
+  @if $max {
+    @if $min {
+      @media screen and (max-width: $max - 1) and (min-width: $min) { @content; }
+    } @else {
+      @media screen and (max-width: $max - 1) { @content; }
+    }
+  } @else {
+    @media screen and (min-width: $min) { @content; }
+  }
+}
+
+@mixin hover($color, $property: color) {
+  @if lightness($color) > 10% {
+    #{$property}: darken($color,8%);
+  } @else {
+    #{$property}: lighten($color,10%);
+  }
+}
+
+@mixin button-hover($color, $property: color) {
+  @if lightness($color) > 20% {
+    #{$property}: darken($color,5%);
+  } @else {
+    #{$property}: lighten($color,6%);
+  }
+}
+
+@mixin retina {
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    @content;
+  }
+}
+
+
+/* scss-combine:general/user-settings */
+$color-primary-dark: stencilColor('color-primary-dark');
+$color-primary-light: stencilColor('color-primary-light');
+
+$body-background-color: stencilColor('body-background-color');
+$body-color: stencilColor('body-font-color');
+$body-font: stencilFontFamily('body-font');
+$body-font-size: 16px;
+
+$heading-font: stencilFontFamily('heading-font');
+$heading-weight: stencilFontWeight('heading-font');
+$heading-color: stencilColor('heading-font-color');
+
+$store-title-font: stencilFontFamily('store-title-font');
+$store-title-weight: stencilFontWeight('store-title-font');
+$store-title-color: stencilColor('store-title-font-color');
+
+$meta-font: stencilFontFamily('meta-font');
+$meta-weight: stencilFontWeight('meta-font');
+$meta-color: stencilColor('meta-font-color');
+
+$button-font: stencilFontFamily('button-font');
+$button-weight: stencilFontWeight('button-font');
+
+$button-font-color: stencilColor('button-font-color');
+$button-background-color: stencilColor('button-background-color');
+$button-border-color: stencilColor('button-border-color');
+
+$button-secondary-font-color: stencilColor('button-secondary-font-color');
+$button-secondary-background-color: stencilColor('button-secondary-background-color');
+$button-secondary-border-color: stencilColor('button-secondary-border-color');
+
+$product-item-title-color: stencilColor('product-item-title-color');
+$product-item-title-font-family: stencilFontFamily('product-item-title');
+$product-item-title-font-weight: stencilFontWeight('product-item-title');
+$product-item-actions-color: stencilColor('product-item-actions-color');
+$product-item-actions-background-color: stencilColor('product-item-actions-background-color');
+
+$section-title-color: stencilColor('section-title-color');
+$section-title-align: stencilString('section-title-alignment');
+
+$accent-color: stencilColor('accent-color');
+$general-link-color: stencilColor('general-link-color');
+$border-color: stencilColor('border-color');
+
+$error-color: stencilColor('color-error');
+$success-color: stencilColor('color-success');
+$neutral-color: stencilColor('color-neutral');
+
+$main-nav-background-color: stencilColor('main-nav-background-color');
+$main-nav-color: stencilColor('main-nav-color');
+
+$enable-main-nav-background-color: stencilString('enable-main-nav-background-color');
+$always-show-main-nav-background-color: stencilString('always-show-main-nav-background-color');
+
+$footer-nav-background-color: stencilColor('footer-nav-background');
+$footer-nav-font-color: stencilColor('footer-nav-font-color');
+
+$carousel-font-color: stencilColor('carousel-font-color');
+$carousel-height-mobile: stencilNumber('carousel-height-mobile');
+$carousel-height-desktop: stencilNumber('carousel-height-desktop');
+$carousel-background-color: stencilColor('carousel-background-color');
+$carousel-dot-color: stencilColor('carousel-dot-color');
+$carousel-image-crop: stencilString('crop-carousel-images');
+
+$banner-background-color: stencilColor('banner-background');
+$banner-font: stencilFontFamily('banner-font');
+$banner-font-color: stencilColor('banner-font-color');
+
+$product-item-align: stencilString('product-item-inside-alignment');
+
+$apple-pay-style: stencilString('apple-pay-style');
+
+
+// Helpers
+/* scss-combine:general/functions */
+// Calculate whether to use a light or dark color based on best contrast
+// Found on Codepen: http://codepen.io/bluesaunders/pen/FCLaz/
+
+// Calculate brightness of a given color.
+@function brightness($color) {
+  @return ((red($color) * 0.299) + (green($color) * 0.587) + (blue($color) * 0.114)) / 255 * 100%;
+}
+
+// Compares contrast of a given color to the light/dark arguments and returns whichever is most "contrasty"
+@function color-contrast($color, $dark: $color-primary-dark, $light: $color-primary-light) {
+  @if $color == null {
+    @return null;
+  } @else {
+    $color-brightness: brightness($color);
+    $light-text-brightness: brightness($light);
+    $dark-text-brightness: brightness($dark);
+    @return if(abs($color-brightness - $light-text-brightness) > abs($color-brightness - $dark-text-brightness), $light, $dark);
+  }
+}
+
+@function modal-background($color) {
+  @if lightness($color) > 10% {
+    @return desaturate(darken($color, 15%), 15%);
+  } @else {
+    @return desaturate(lighten($color, 15%), 15%);
+  }
+}
+
+@function lightness-adjust($color-a, $color-b, $other) {
+  $lightness: abs(lightness($color-a) - lightness($color-b));
+  @return if($lightness > 30, $color-a, $other);
+}
+
+@function brightness-adjust($color, $force: false, $amount: 30%, $threshold: 30%) {
+  @if ($force) {
+    @if ($force == lighten) {
+      @return brightness-adjust(lighten($color, $amount));
+    } @else {
+      @return brightness-adjust(darken($color, $amount));
+    }
+  } @else {
+    @if lightness($color) > $threshold {
+      @return darken($color, $amount - 10%);
+    } @else {
+      @return lighten($color, $amount);
+    }
+  }
+}
+
+@function lower-bound($range) {
+  @if length($range) <= 0 {
+    @return 0;
+  }
+  @return nth($range, 1);
+}
+
+@function upper-bound($range) {
+  @if length($range) < 2 {
+    @return 999999999999;
+  }
+  @return nth($range, 2);
+}
+
+
+// ================================================================ */
+//  Function to create an optimized svg url
+// from: http://codepen.io/jakob-e/pen/doMoML
+
+@function svg-url($svg) {
+  //
+  //  Chunk up string in order to avoid
+  //  "stack level too deep" error
+  //
+  $encoded: "";
+  $slice: 2000;
+  $index: 0;
+  $loops: ceil(str-length($svg) / $slice);
+  @for $i from 1 through $loops {
+    $chunk: str-slice($svg, $index, $index + $slice - 1);
+    //
+    //   Encode (may need a few extra replacements)
+    //
+    $chunk: str-replace($chunk, '"', '\'');
+    $chunk: str-replace($chunk, '<', '%3C');
+    $chunk: str-replace($chunk, '>', '%3E');
+    $chunk: str-replace($chunk, '&', '%26');
+    $chunk: str-replace($chunk, '#', '%23');
+    $encoded: #{$encoded}#{$chunk};
+    $index: $index + $slice;
+  }
+
+  @return url("data:image/svg+xml;charset=utf8,#{$encoded}");
+}
+
+//  Helper function to replace characters in a string
+@function str-replace($string, $search, $replace: "") {
+  $index: str-index($string, $search);
+  @if $index {
+    @return str-slice($string, 1, $index - 1) + $replace +
+            str-replace(str-slice($string, $index +
+            str-length($search)), $search, $replace);
+  }
+  @return $string;
+}
+
+/* scss-combine:general/mixins */
+@mixin breakpoint($breakpoint, $print: false) {
+  @if $breakpoint == s-up {
+    @media #{$small-up}{ @content; }
+  }
+  @if $breakpoint == s-only {
+    @media #{$small-only}{ @content; }
+  }
+  @if $breakpoint == m-up {
+    @media #{$medium-up}{ @content; }
+  }
+  @if $breakpoint == m-only {
+    @media #{$medium-only}{ @content; }
+  }
+  @if $breakpoint == m-down {
+    @media #{$medium-down}{ @content; }
+  }
+  @if $breakpoint == l-up {
+    @media #{$large-up}{ @content; }
+  }
+  @if $breakpoint == l-only {
+    @media #{$large-only}{ @content; }
+  }
+  @if $breakpoint == l-down {
+    @media #{$large-down}{ @content; }
+  }
+  @if $breakpoint == xl-up {
+    @media #{$xlarge-up}{ @content; }
+  }
+  @if $breakpoint == xl-only {
+    @media #{$xlarge-only}{ @content; }
+  }
+
+  @if $print or $breakpoint == print {
+    @media print { @content; }
+  }
+}
+
+// Fluid column / element widths
+
+@mixin row($context, $local-gutter: $gutter) {
+  margin-left: $local-gutter / ($context + $local-gutter) / 2 * -100%;
+  margin-right: $local-gutter / ($context + $local-gutter) / 2 * -100%;
+}
+
+@mixin fluid-width($width, $context, $local-gutter: $gutter) {
+  width: $width / ($context + $local-gutter) * 100%;
+  margin-left: $local-gutter / ($context + $local-gutter) / 2 * 100%;
+  margin-right: $local-gutter / ($context + $local-gutter) / 2 * 100%;
+}
+
+// Column Helper
+// Use around a group of child DIVs that use @grin-columns:
+// - To make sure the that the floats clear
+// - Use 'collapse' to offset the internal padding
+//
+@mixin grid-row($behavior: nest, $internal-gutter: $column-gutter) {
+  // scss-lint:disable all
+  $direction: get-direction($layout-direction, $default-layout-direction);
+  $opposite-direction: get-opposite-direction($direction);
+  @include clearfix;
+
+  @if $behavior == nest {
+    margin-#{$direction}: -($internal-gutter);
+    margin-#{$opposite-direction}: -($internal-gutter);
+  } @else if $behavior == collapse {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  min-width: 100%;
+}
+
+// Column Helper
+// Similar to Bourbon Neat's grid structure, allows for multiple rows
+@mixin grid-columns($span: $columns of $container-columns, $display: block) {
+  // scss-lint:disable all
+  $columns: nth($span, 1);
+  $container-columns: container-span($span);
+  $parent-columns: get-parent-columns($container-columns) !global;
+  $single-span: (1/$parent-columns);
+  $direction: get-direction($layout-direction, $default-layout-direction);
+  $opposite-direction: get-opposite-direction($direction);
+  $display-table: is-display-table($container-display-table, $display);
+  $width: percentage($columns * $single-span);
+
+  @if $display-table {
+    display: table-cell;
+    width: $width;
+  } @else {
+    float: #{$opposite-direction};
+    box-sizing: border-box;
+
+    @if $display != no-display {
+      display: block;
+    }
+
+    @if $display == collapse or $display == block-collapse or $display == row {
+      width: $width;
+    } @else {
+      width: $width;
+      padding-right: $column-gutter;
+      padding-left: $column-gutter;
+      &:nth-of-type(#{(($container-columns/$columns))}n + 1) {
+        clear: $opposite-direction;
+      }
+    }
+
+    @if $display == row {
+      padding-right: $column-gutter;
+
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+  }
+}
+
+// Border Radius
+@mixin border-radius($radius) {
+  border-radius: $radius;
+  background-clip: padding-box;
+}
+
+// Maintain Aspect Ratio
+// @include maintain-ratio(16 9);
+@mixin maintain-ratio($ratio: 1 1) {
+  @if length($ratio) < 2 or length($ratio) > 2 {
+    @warn "$ratio must be a list with two values.";
+  }
+
+  $width: 100%;
+  $height: percentage(nth($ratio, 2) / nth($ratio, 1));
+  width: $width;
+  height: 0;
+  padding-bottom: $height;
+}
+
+// Opacity
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  $opacity-ie: $opacity * 100;
+  filter: alpha(opacity=$opacity-ie); //IE8
+}
+
+// Centerer
+@mixin centerer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+// Coverer
+@mixin coverer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@mixin page-overlay($zindex) {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: $zindex;
+  display: none;
+  width: 100%;
+  height: 100vh;
+  background-color: $modal-background-color;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.5s $ease-out-quad;
+
+  &.visible {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+
+// Variables
+/* scss-combine:variables/settings-derivatives */
+// -- Static variables -- //
+$color-white: #fff;
+$color-black: #000;
+
+// -- Backgrounds / Low Hierarchy -- //
+$container-background-color: $body-background-color;
+$container-background-color-opaque: rgba($container-background-color, 0.8);
+$container-background-color-secondary: $color-primary-light;
+$main-nav-background-color-opaque: rgba($main-nav-background-color, 0.8);
+
+// -- Primary Color Derivatives -- //
+$color-primary-dark-dark:  brightness-adjust($color-primary-dark, darken);
+$color-primary-contrast:  brightness-adjust($color-primary-light, lighten);
+
+$body-color-light: brightness-adjust($body-color, lighten, 90%);
+$body-color-dark: brightness-adjust($body-color, darken, 90%);
+$body-color-link: brightness-adjust($body-color, false, 50%);
+
+$secondary-color-main: $color-primary-dark;
+$secondary-color-accent: $color-primary-light;
+
+$modal-background-color: rgba(modal-background($color-primary-dark), 0.9);
+
+//----- Secondary Color Derivatives -----//
+$accent-color-light: brightness-adjust($accent-color, lighten, 70%);
+$accent-color-dark: brightness-adjust($accent-color, darken);
+
+$error-color-border: mix($error-color, $container-background-color, 75%);
+$error-color-placeholder: mix($error-color, $container-background-color);
+
+// -- Main Nav Color Derivatives -- //
+$main-nav-color-dark:  brightness-adjust($main-nav-color, darken);
+$main-nav-color-light:  brightness-adjust($main-nav-color, lighten, 35%);
+$main-nav-color-overlay-contrast:  color-contrast($color-primary-dark, $modal-background-color);
+
+//-- Product Item Actions #derived --//
+$product-item-sale-color: mix(#fff, $error-color, 90%);
+$product-item-sale-background: $error-color;
+
+$product-item-sold-out-background: $button-border-color;
+$product-item-sold-out-color: lightness-adjust($container-background-color, $product-item-sold-out-background, color-contrast($product-item-sold-out-background));
+
+/* scss-combine:variables/layout */
+// -- Grid -- //
+$max-width: 1260px;
+$gutter: 20px;
+$column-gutter: 20px;
+$header-gutter: 35px;
+
+//----- Component Variables -----//
+//-- Page Padding --//
+$page-padding-top: $gutter * 2.5;
+$page-padding-bottom: $gutter * 4;
+
+// -- Main Navigation -- //
+$header-height-mobile: 60px;
+$header-height-desktop: 180px;
+$header-padding: 15px;
+$header-logo-max-width: 250px;
+
+// -- Slideout Navigation -- //
+$slide-navigation-regular: 150px;
+$slide-navigation-desktop: 300px;
+
+// -- Quick Cart -- //
+$quick-cart-image-size: 70px;
+$quick-cart-quantity-button: 35px;
+
+//-- Product Images --//
+$product-image-small: (
+  width: 300px,
+  height: 600px,
+);
+
+$product-image-large: (
+  width: 600px,
+  height: 800px,
+);
+
+//----- Transitions -----//
+$ease-out-quad: cubic-bezier(0.250, 0.460, 0.450, 0.940);
+
+//----- Z-Index Maps -----//
+$zindex: (
+  quick-shop: 5000,
+  write-review: 5000,
+  overlay: 4000,
+  navigation-wrap: 3200,
+  modal-overlay: 3100,
+  modal-wrapper: 3101,
+  compare: 3000,
+  header: 2000,
+  content: 1000,
+  footer: 1000,
+);
+
+//----- Break Points -----//
+$small-range: (0, 568px);
+$medium-range: (569px, 850px);
+$large-range: (851px, 1199px);
+$xlarge-range: (1200px, 1400px);
+$xxlarge-range: (1401px, 99999999em);
+
+$screen: "only screen";
+
+$small: upper-bound($small-range);
+$medium: upper-bound($medium-range);
+$large: upper-bound($large-range);
+$xlarge: upper-bound($xlarge-range);
+$xxlarge: upper-bound($xxlarge-range);
+
+$small-up: $screen;
+$small-only: "#{$screen} and (max-width: #{upper-bound($small-range)})";
+
+$medium-up: "#{$screen} and (min-width:#{lower-bound($medium-range)})";
+$medium-only: "#{$screen} and (min-width:#{lower-bound($medium-range)}) and (max-width:#{upper-bound($medium-range)})";
+$medium-down: "#{$screen} and (max-width:#{upper-bound($medium-range)})";
+
+$large-up: "#{$screen} and (min-width:#{lower-bound($large-range)})";
+$large-only: "#{$screen} and (min-width:#{lower-bound($large-range)}) and (max-width:#{upper-bound($large-range)})";
+$large-down: "#{$screen} and (max-width:#{upper-bound($large-range)})";
+
+$xlarge-up: "#{$screen} and (min-width:#{lower-bound($xlarge-range)})";
+$xlarge-only: "#{$screen} and (min-width:#{lower-bound($xlarge-range)}) and (max-width:#{upper-bound($xlarge-range)})";
+$xlarge-down: "#{$screen} and (max-width:#{upper-bound($xlarge-range)})";
+
+$xxlarge-up: "#{$screen} and (min-width:#{lower-bound($xxlarge-range)})";
+$xxlarge-only: "#{$screen} and (min-width:#{lower-bound($xxlarge-range)}) and (max-width:#{upper-bound($xxlarge-range)}";
+
+
+//scss-lint:disable SelectorFormat, IdSelector
+#Header {
+  padding-right: 25px;
+  padding-left: 25px;
+
+  @if ($enable-main-nav-background-color == "true") {
+    background-color: $main-nav-background-color;
+  }
+
+  .inner {
+    display: table;
+    height: $header-height-mobile;
+    text-align: left;
+
+    @include breakpoint(l-up) {
+      height: $header-height-desktop;
+    }
+  }
+
+  .header-logo {
+    display: table-cell;
+    width: 100%;
+    height: $header-height-mobile;
+    padding: 0;
+    vertical-align: middle;
+    box-sizing: border-box;
+
+    @include breakpoint(l-up) {
+      height: $header-height-desktop;
+    }
+
+    @include media($max: 769px) {
+      margin-bottom: 0;
+    }
+
+    #LogoImage {
+      height: auto;
+      max-width: $header-logo-max-width;
+      max-height: $header-height-mobile;
+      padding-top: $gutter;
+      padding-bottom: $gutter;
+      margin: 0;
+
+      @include breakpoint(l-up) {
+        max-height: $header-height-desktop;
+      }
+    }
+
+    #LogoContainer h1 {
+      font-family: $store-title-font, "Open Sans", Helvetica, Arial, Sans-serif;
+      font-size: 20px;
+      letter-spacing: initial;
+      color: $store-title-color;
+    }
+
+    a,
+    a:hover {
+      color: $main-nav-color;
+    }
+
+    a {
+      display: block;
+      width: auto;
+      text-align: left;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      max-height: 100%;
+      margin: 0 auto; }
+
+    a,
+    img { box-sizing: border-box; }
+  }
+}
+
+.page {
+  .main {
+    padding-top: $gutter;
+  }
+}

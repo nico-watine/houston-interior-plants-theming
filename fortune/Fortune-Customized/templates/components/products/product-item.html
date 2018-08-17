@@ -1,0 +1,130 @@
+<article
+  class="
+    layout-grid-item
+    product-item
+    {{#if show_large_first}}
+      {{#if index '===' 0}}
+        grid-span-2
+      {{/if}}
+    {{/if}}
+  "
+>
+  <figure class="product-item-thumbnail">
+    <a href="{{{url}}}" title="{{name}}" class="product-item-link">
+      {{#compare index 0 operator='==='}}
+        {{#if show_large_first}}
+          <img
+            src="{{getImage image '600x1200' (cdn default_image)}}"
+            alt="{{image.alt}}"
+          >
+        {{else}}
+          <img
+            src="{{getImage image '300x600' (cdn default_image)}}"
+            alt="{{image.alt}}"
+          >
+        {{/if}}
+      {{else}}
+        <img
+          src="{{getImage image '300x600' (cdn default_image)}}"
+          alt="{{image.alt}}"
+        >
+      {{/compare}}
+    </a>
+
+    <div class="product-item-badges">
+      {{#unless out_of_stock_message}}
+        {{#if price.saved}}
+          <div class="product-item-sale-tag">
+            {{lang 'product.product_item_actions.sale'}}
+          </div>
+        {{/if}}
+      {{else}}
+        <div class="product-item-out-of-stock">
+          {{lang 'product.product_item_actions.sold_out'}}
+        </div>
+      {{/unless}}
+    </div>
+
+    <ul class="product-item-actions">
+      {{#if show_quick_shop}}
+        <li>
+          <span
+            class="product-item-action quick-shop-trigger"
+            data-product-id="{{id}}"
+          >
+            {{lang 'product.quick_view'}}
+          </span>
+        </li>
+      {{/if}}
+
+      <li>
+        {{#if has_options}}
+          <a href="{{url}}">
+            <span class="product-item-action">
+              {{lang 'product.choose_options'}}
+            </span>
+          </a>
+        {{else}}
+          {{#if add_to_cart_url}}
+            <a
+              href="{{add_to_cart_url}}"
+              data-product-add-to-cart
+              data-product-id="{{id}}"
+              data-product-title="{{name}}"
+              data-progress-text="{{lang 'product.add_to_cart_progress'}}"
+            >
+              <span class="button-text product-item-action">
+                {{#if pre_order}}
+                  {{lang 'product.pre_order'}}
+                {{else}}
+                  {{lang 'product.add_to_cart'}}
+                {{/if}}
+              </span>
+            </a>
+          {{else}}
+            <a href="{{url}}">
+              <span class="product-item-action ">
+                {{#if out_of_stock_message}}
+                  {{lang 'product.sold_out'}}
+                {{else}}
+                  {{lang 'product.view_full_details'}}
+                {{/if}}
+              </span>
+            </a>
+          {{/if}}
+        {{/if}}
+      </li>
+
+      {{#if show_compare}}
+        <li>
+          <label for="compare-{{id}}">
+            <input
+              class="input-checkbox product-item-compare"
+              type="checkbox"
+              name="products[]"
+              value="{{id}}"
+              id="compare-{{id}}"
+            >
+              <span class="product-item-action">
+                {{lang "product.compare"}}
+              </span>
+          </label>
+        </li>
+      {{/if}}
+    </ul>
+  </figure>
+
+  <div class="product-item-details">
+    {{#if brand.name}}
+      <span class="product-item-brand">{{brand.name}}</span>
+    {{/if}}
+
+    <h3 class="product-item-title">
+      <a href="{{{url}}}">{{name}}</a>
+    </h3>
+
+    <div class="product-item-price">
+      {{> core/products/price save_block=false}}
+    </div>
+  </div>
+</article>

@@ -1,0 +1,67 @@
+<!doctype html>
+<!--[if IE 9 ]><html class="no-js ie9 lt-ie10" lang="{{ locale_name }}"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class="no-js" lang="{{ locale_name }}"><!--<![endif]-->
+<head>
+
+  <title>{{head.title}}</title>
+
+  {{{head.meta_tags}}}
+  {{{head.config}}}
+
+  <link href="{{head.favicon}}" rel="shortcut icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  {{{stylesheet '/assets/css/theme.css'}}}
+  {{ getFontsCollection }}
+
+  {{{head.scripts}}}
+  {{{head.rsslinks}}}
+
+  {{> components/common/global-injects}}
+
+  {{{snippet 'html_head'}}}
+
+  {{> core/structured-data/website}}
+</head>
+
+<body
+  class="{{> components/common/body-class}}"
+  data-layout="{{theme_settings.product-grid-layout}}"
+>
+
+  {{#if page_type '===' 'product'}}
+    {{> components/common/facebook-like}}
+  {{else if page_type '===' 'blog_post'}}
+    {{> components/common/facebook-like}}
+  {{/if}}
+
+  {{{snippet 'header'}}}
+
+  {{> components/header}}
+
+  <main class="main-content">
+    {{#if template_file "!==" "pages/home"}}
+      {{> components/common/banners banners=banners.top type='top'}}
+    {{/if}}
+
+    {{#block "page"}}{{/block}}
+
+    {{> components/common/banners banners=banners.bottom type='bottom'}}
+  </main>
+
+  {{> components/navigation-header}}
+  {{> components/footer}}
+  {{> components/footer-modals}}
+
+  {{> core/structured-data/breadcrumbs}}
+
+  <script src="{{cdn '/assets/js/bundle.js'}}"></script>
+  <script>
+    // Exported in app.js
+    window.stencilBootstrap("{{template_file}}", {{jsContext}}).load();
+  </script>
+  {{{footer.scripts}}}
+
+  {{{snippet 'footer'}}}
+  </body>
+</html>

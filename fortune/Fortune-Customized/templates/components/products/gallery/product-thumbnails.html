@@ -1,0 +1,23 @@
+{{#if product.images.length '>' 1}}
+  <div class="single-product-thumbnails">
+    {{#each product.images}}
+      <div class="single-product-thumbnail-wrapper">
+        <a
+          href="#"
+          class="
+            single-product-thumbnail
+            {{#compare this.data ../product.main_image.data operator='==='}}
+              active
+            {{/compare}}
+            {{#if @first}}active{{/if}}
+          "
+          data-slide-position="{{@index}}"
+          data-high-res="{{getImage this '600x1200'}}"
+          style="background-image:url({{getImage this '300x600'}})"
+        >
+          <span class="sr-only">{{image.alt}}</span>
+        </a>
+      </div>
+    {{/each}}
+  </div>
+{{/if}}

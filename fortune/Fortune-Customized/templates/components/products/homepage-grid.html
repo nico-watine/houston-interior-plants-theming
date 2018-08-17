@@ -1,0 +1,38 @@
+<section class="layout-module products-featured products-space-above">
+  <h2 class="section-title">{{title}}</h2>
+
+  {{#if grid.length}}
+    <div
+      class="
+        product-grid-container
+        grid-masonry
+        layout-grid-of-{{column_count}}
+      "
+      >
+      <div class="layout-grid-sizer"></div>
+      <div class="layout-grid-gutter"></div>
+
+      {{#each grid}}
+        {{#if @first}}
+          {{> components/products/product-item
+            this
+            index=@index
+            show_large_first=../../show_large_first
+            show_quick_shop=../../show_quick_shop
+            default_image=../../default_image
+          }}
+        {{else}}
+          {{> components/products/product-item
+            this
+            show_quick_shop=../../show_quick_shop
+            default_image=../../default_image
+          }}
+        {{/if}}
+      {{/each}}
+
+    </div>
+  {{else}}
+    <p>{{lang 'product_featured.no_products'}}</p>
+  {{/if}}
+
+</section>

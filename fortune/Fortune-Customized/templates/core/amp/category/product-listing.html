@@ -1,0 +1,15 @@
+<ul class="amp-product-grid columns-{{catalog_columns}} alignment-{{info_alignment}}">
+  {{#each category.products}}
+    <li class="amp-product-item">
+      {{> core/amp/category/product-item
+        default=../default
+        show_rating=../settings.show_product_rating
+        as_low_as=../as_low_as
+        image_ratio=../image_ratio
+        image_cropping=../image_cropping
+      }}
+    </li>
+  {{/each}}
+</ul>
+
+{{> core/amp/common/pagination pagination.category}}

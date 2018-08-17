@@ -1,0 +1,65 @@
+---
+carousel: true
+products:
+  featured:
+    limit: {{theme_settings.homepage-show-featured-products}}
+  new:
+    limit: {{theme_settings.homepage-show-new-products}}
+  top_sellers:
+    limit: {{theme_settings.homepage-show-popular-products}}
+---
+
+{{#partial "page"}}
+  {{#if carousel.slides.length}}
+    {{> components/carousel}}
+  {{/if}}
+
+  {{{snippet 'home_content'}}}
+
+  {{> components/common/banners
+    banners=banners.top
+    type='top'
+  }}
+
+  {{#if theme_settings.homepage-show-featured-products}}
+    {{#if products.featured.length}}
+      {{> components/products/homepage-grid
+        title=(lang 'product_featured.heading')
+        grid=products.featured
+        show_quick_shop=theme_settings.show_quick_shop
+        show_large_first=theme_settings.homepage-show-show-large-first
+        column_count=theme_settings.home-product-grid-count
+        default_image=theme_settings.default_image
+      }}
+    {{/if}}
+  {{/if}}
+
+  {{#if theme_settings.homepage-show-new-products}}
+    {{#if products.new.length}}
+      {{> components/products/homepage-grid
+        title=(lang 'product_new.heading')
+        grid=products.new
+        show_quick_shop=theme_settings.show_quick_shop
+        show_large_first=theme_settings.homepage-show-show-large-first
+        column_count=theme_settings.home-product-grid-count
+        default_image=theme_settings.default_image
+      }}
+    {{/if}}
+  {{/if}}
+
+  {{#if theme_settings.homepage-show-popular-products}}
+    {{#if products.top_sellers.length}}
+      {{> components/products/homepage-grid
+        title=(lang 'product_top.heading')
+        grid=products.top_sellers
+        show_quick_shop=theme_settings.show_quick_shop
+        show_large_first=theme_settings.homepage-show-show-large-first
+        column_count=theme_settings.home-product-grid-count
+        default_image=theme_settings.default_image
+      }}
+    {{/if}}
+  {{/if}}
+
+{{/partial}}
+
+{{> layout/base}}

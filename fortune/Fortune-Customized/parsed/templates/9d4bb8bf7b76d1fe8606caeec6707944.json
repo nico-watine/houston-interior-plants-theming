@@ -1,0 +1,1 @@
+{"components/common/banners":"{{#if banners}}\n  <div class=\"outer-banner-wrapper {{type}}-banner\">\n    <div class=\"layout-module rte\">\n      {{{limit banners 1}}}\n    </div>\n  </div>\n{{/if}}\n"}

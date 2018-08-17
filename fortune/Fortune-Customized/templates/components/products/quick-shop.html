@@ -1,0 +1,18 @@
+
+{{> components/common/modal-close}}
+
+{{> components/products/single-image
+  this
+  class='quick-shop-images product-images'
+  quick_shop='true'
+}}
+
+<div
+  class="quick-shop-details"
+  data-product-title="{{product.title}}"
+  data-product-id={{product.id}}
+>
+  {{> components/products/single-details
+    quick_shop='true'
+  }}
+</div>

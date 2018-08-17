@@ -1,0 +1,9 @@
+
+<div class="layout-grid-sizer"></div>
+<div class="layout-grid-gutter"></div>
+
+{{#each brand.products}}
+  {{> components/products/product-item show_compare=../brand.show_compare show_quick_shop=../theme_settings.show_quick_shop default_image=../theme_settings.default_image}}
+{{/each}}
+
+{{> components/common/pagination pagination.brand is_grid=true}}

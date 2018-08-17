@@ -1,0 +1,112 @@
+{{!
+  Product Price - Sale vs Normal, With Tax vs Without
+
+  @param this price object
+
+  @param show_savings bool (optional)
+         If true, show a label saying how much is saved from the full price.
+}}
+
+{{#if price}}
+  {{#or has_options product.options.length}}
+    <span
+      class="price {{> core/amp/common/price-class}}"
+      {{#if schema}}
+        itemprop="offers"
+        itemscope
+        itemtype="http://schema.org/Offer"
+      {{/if}}
+    >
+      {{#if price.with_tax}}
+        <span class="price-withtax" data-price="with-tax">
+          {{#if page_type '!==' 'product'}}
+            {{#if as_low_as}}
+              <span class="as-low-as-pricing">{{lang 'core.price.as_low_as'}}</span>
+            {{/if}}
+          {{/if}}
+          {{#if price.rrp_with_tax}}
+            <span class="price-rrp" data-price-rrp="with-tax">{{price.rrp_with_tax.formatted}}</span>
+          {{/if}}
+          <span class="price-value" data-price-value="with-tax">
+            {{price.with_tax.formatted}}
+          </span>
+          {{#if price.without_tax}}
+            <span class="price-tax-label">{{lang 'core.price.with_tax' tax_label=price.tax_label}}</span>
+          {{/if}}
+        </span>
+      {{/if}}
+
+      {{#if price.without_tax}}
+        <span class="price-withouttax" data-price="without-tax">
+          {{#if page_type '!==' 'product'}}
+            {{#if as_low_as}}
+              <span class="as-low-as-pricing">{{lang 'core.price.from'}}</span>
+            {{/if}}
+          {{/if}}
+          {{#if price.rrp_without_tax}}
+            <span class="price-rrp" data-price-rrp="without-tax">{{price.rrp_without_tax.formatted}}</span>
+          {{/if}}
+          <span class="price-value" data-price-value="without-tax">
+            {{price.without_tax.formatted}}
+          </span>
+          {{#if price.with_tax}}
+            <span class="price-tax-label">{{lang 'core.price.without_tax' tax_label=price.tax_label}}</span>
+          {{/if}}
+        </span>
+      {{/if}}
+
+      {{#if show_saved}}
+        {{#if price.saved}}
+          <span class="price-saved" data-price-saved>
+            {{lang 'core.price.you_save'}} {{price.saved.formatted}}
+          </span>
+        {{/if}}
+      {{/if}}
+    </span>
+  {{else}}
+    <span
+      class="price {{> core/amp/common/price-class}}"
+      {{#if schema}}
+        itemprop="offers"
+        itemscope
+        itemtype="http://schema.org/Offer"
+      {{/if}}
+    >
+      {{#if price.with_tax}}
+        <span class="price-withtax" data-price="with-tax">
+          {{#if price.rrp_with_tax}}
+            <span class="price-rrp" data-price-rrp="with-tax">{{price.rrp_with_tax.formatted}}</span>
+          {{/if}}
+          <span class="price-value" data-price-value="with-tax">
+            {{price.with_tax.formatted}}
+          </span>
+          {{#if price.without_tax}}
+            <span class="price-tax-label">{{lang 'core.price.with_tax' tax_label=price.tax_label}}</span>
+          {{/if}}
+        </span>
+      {{/if}}
+
+      {{#if price.without_tax}}
+        <span class="price-withouttax" data-price="without-tax">
+          {{#if price.rrp_without_tax}}
+            <span class="price-rrp" data-price-rrp="without-tax">{{price.rrp_without_tax.formatted}}</span>
+          {{/if}}
+          <span class="price-value" data-price-value="without-tax">
+            {{price.without_tax.formatted}}
+          </span>
+          {{#if price.with_tax}}
+            <span class="price-tax-label">{{lang 'core.price.without_tax' tax_label=price.tax_label}}</span>
+          {{/if}}
+        </span>
+      {{/if}}
+
+      {{#if show_saved}}
+        {{#if price.saved}}
+          <span class="price-saved" data-price-saved>
+            {{lang 'core.price.you_save' amount=price.saved.formatted}}
+          </span>
+        {{/if}}
+      {{/if}}
+    </span>
+  {{/or}}
+{{/if}}

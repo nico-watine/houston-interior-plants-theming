@@ -1,0 +1,39 @@
+---
+blog:
+  posts:
+    limit: 20
+    pages: 2
+    summary: 200
+---
+
+{{#partial "page"}}
+
+{{> components/common/page-header list=breadcrumbs page_title=blog.name}}
+
+<div class="blog-container">
+
+  <section class="layout-module layout-grid-blog">
+
+    <div class="grid-masonry">
+      <div class="layout-grid-sizer"></div>
+      <div class="layout-grid-gutter"></div>
+
+      {{#each blog.posts}}
+        {{> components/blog/blog-item this}}
+      {{/each}}
+
+    </div>
+
+  </section>
+
+  {{#if pagination.blog}}
+    <div class="layout-module">
+      {{> components/common/pagination pagination.blog}}
+    </div>
+  {{/if}}
+
+</div>
+
+{{/partial}}
+
+{{> layout/base}}

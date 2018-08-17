@@ -1,0 +1,19 @@
+<div class="layout-grid-sizer"></div>
+<div class="layout-grid-gutter"></div>
+
+{{#each category.products}}
+  {{> components/products/product-item
+    show_compare=../category.show_compare
+    show_quick_shop=../theme_settings.show_quick_shop
+    default_image=../theme_settings.default_image
+  }}
+{{/each}}
+
+{{#for 1 3}}
+  <div class="product-item-empty"></div>
+{{/for}}
+
+{{> components/common/pagination
+  pagination.category
+  is_grid=true
+}}

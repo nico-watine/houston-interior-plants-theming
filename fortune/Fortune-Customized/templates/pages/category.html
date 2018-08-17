@@ -1,0 +1,92 @@
+---
+brands: true
+cart: true
+category:
+  products:
+    limit: {{theme_settings.product-results-per-page}}
+  shop_by_price: true
+---
+
+{{#partial "page"}}
+
+{{#if category.image}}
+  {{> components/collection-banner
+    category.image
+  }}
+{{/if}}
+
+{{> components/common/page-header
+  list=breadcrumbs
+  page_title=category.name
+  description=category.description
+}}
+
+<section
+  class="
+    collection-container
+    layout-module
+    {{#if category.products}}
+      {{#if category.faceted_search_enabled}}
+        has-sidebar
+      {{/if}}
+    {{/if}}
+  "
+>
+
+  {{#if category.products}}
+    {{#if category.faceted_search_enabled}}
+      <aside class="collection-sidebar">
+        {{> components/category/sidebar}}
+      </aside>
+    {{/if}}
+  {{/if}}
+
+  <section
+    class="
+      collection-wrapper
+      {{#if category.faceted_search_enabled}}
+        layout-grid-of-3
+      {{else}}
+        layout-grid-of-4
+      {{/if}}
+    "
+  >
+
+    {{{snippet 'categories'}}}
+
+    {{#if category.products}}
+
+      {{#if theme_settings.product-grid-layout '===' "classic-grid"}}
+        <div class="collection-wrapper-sorting">
+          {{> components/common/sort sort=pagination.collection.sort}}
+        </div>
+      {{/if}}
+
+      <form
+        class="
+          product-grid-container
+          {{#if theme_settings.product-grid-layout '===' "masonry-grid"}}
+            grid-masonry
+          {{else}}
+            grid-classic
+          {{/if}}
+        "
+        action="/compare"
+        method="POST"
+        data-product-compare
+      >
+        {{> components/category/product-listing}}
+      </form>
+    {{else}}
+    <p class="collection-empty">
+      {{lang 'category.empty'}}
+    </p>
+    {{/if}}
+
+  </section>
+
+</section>
+
+{{/partial}}
+
+{{> layout/base}}

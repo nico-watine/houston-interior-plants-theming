@@ -1,0 +1,1 @@
+{"components/blog-banner":"\n<section class=\"blog-banner\">\n  <figure class=\"blog-banner-item\" style=\"background-image:url('{{getImage this 'blog-banner'}}')\">\n    <span class=\"sr-only\">\n      <img src=\"{{getImage this '1500x360'}}\" alt=\"{{this.alt}}\">\n    </span>\n  </figure>\n</section>\n"}
