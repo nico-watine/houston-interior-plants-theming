@@ -5184,6 +5184,42 @@
 		"oAP": "\/fortune\/Fortune-Customized\/templates\/pages\/unsubscribe.html",
 		"oF": 0
 		},
+	"\/fortune\/Highlight\/css\/custom.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/fortune\/Highlight\/css\/custom-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/fortune\/Highlight\/scss\/_settings.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/fortune\/Highlight\/css\/_settings.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/fortune\/Highlight\/scss\/custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/fortune\/Highlight\/css\/custom.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
